@@ -11,3 +11,6 @@ class Solution:
                 right = mid
 
         return left
+
+#Time complexity = O(log n)
+# Space Complexity = O(1)
