@@ -9,3 +9,7 @@ class Solution:
                 return [seen[complement],i]
 
             seen[num] = i
+
+
+# Time complexity = O(n)
+# Space Comeplexity O(n)
